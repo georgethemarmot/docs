@@ -41,7 +41,7 @@ To remove yourself from your organization:
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.security %}
 {% ifversion 2fa-reconfiguration-inline-update %}
-1. Hover over **Enabled**, then click **Disable**.
+1. Click on the three dots action menu , then click **Disable two-factor authentication**.
 
    ![Screenshot of an account's 2FA settings. A green button labeled "Enabled" is outlined in orange.](/assets/images/help/2fa/disable-two-factor-authentication.png)
 
